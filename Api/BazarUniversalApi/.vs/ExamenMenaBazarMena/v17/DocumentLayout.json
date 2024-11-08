@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\models\\itemwithimagesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\models\\itemwithimagesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\models\\bazarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\models\\bazarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\models\\salesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\models\\salesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\models\\itemsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\models\\itemsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|c:\\users\\angel\\onedrive\\desktop\\examenmenaalexa\\api\\bazaruniversalapi\\bazaruniversalapi\\models\\imagesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F0304-BA0F-40EA-AF5C-233BDEC9611D}|BazarUniversalApi\\BazarUniversalApi.csproj|solutionrelative:bazaruniversalapi\\models\\imagesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "BazarUniversalApi\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:30:23.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemWithImagesModel.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\ItemWithImagesModel.cs",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\Models\\ItemWithImagesModel.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\ItemWithImagesModel.cs",
+              "RelativeToolTip": "BazarUniversalApi\\Models\\ItemWithImagesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:15:09.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImagesModel.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\ImagesModel.cs",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\Models\\ImagesModel.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\ImagesModel.cs",
+              "RelativeToolTip": "BazarUniversalApi\\Models\\ImagesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:54:15.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemsModel.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\ItemsModel.cs",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\Models\\ItemsModel.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\ItemsModel.cs",
+              "RelativeToolTip": "BazarUniversalApi\\Models\\ItemsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:53:00.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "BazarUniversalApi\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:33:14.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Program.cs",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Program.cs",
+              "RelativeToolTip": "BazarUniversalApi\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:04:35.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BazarContext.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\BazarContext.cs",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\Models\\BazarContext.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\BazarContext.cs",
+              "RelativeToolTip": "BazarUniversalApi\\Models\\BazarContext.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwGkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:12:51.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\appsettings.json",
+              "RelativeToolTip": "BazarUniversalApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T17:04:22.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BazarUniversalApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T18:36:42.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesModel.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\SalesModel.cs",
+              "RelativeDocumentMoniker": "BazarUniversalApi\\Models\\SalesModel.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\ExamenMenaAlexa\\Api\\BazarUniversalApi\\BazarUniversalApi\\Models\\SalesModel.cs",
+              "RelativeToolTip": "BazarUniversalApi\\Models\\SalesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:33:26.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

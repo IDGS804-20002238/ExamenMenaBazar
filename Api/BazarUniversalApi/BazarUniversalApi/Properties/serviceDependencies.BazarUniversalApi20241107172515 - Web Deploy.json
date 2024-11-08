@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/ExamenMenaApi-apim/apis/echo-api",
+      "type": "apis.azure"
+    },
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/BazarUniversalApi20241107172515/providers/Microsoft.ServiceLinker/linkers/ConnectionStringscadenaSQL_9452E42270",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/bazaruniversalapidbserver/databases/BazarUniversalApi_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:cadenaSQL",
+      "dynamicId": null
+    }
+  }
+}

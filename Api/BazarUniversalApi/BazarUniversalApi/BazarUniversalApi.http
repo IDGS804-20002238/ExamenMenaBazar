@@ -1,0 +1,6 @@
+@BazarUniversalApi_HostAddress = http://localhost:5056
+
+GET {{BazarUniversalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
